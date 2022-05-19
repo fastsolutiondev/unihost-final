@@ -1,0 +1,15 @@
+#headstyles {
+  color: #222f41;
+  font-weight: bold;
+}
+#muted-select {
+  color: #a4a4a4;
+  font-size: 14px;
+}
+#label-select {
+  color: #222f41;
+}
+#backofformn {
+  background-color: #f9f9f9;
+  border: 1px solid #d9d9d9;
+}

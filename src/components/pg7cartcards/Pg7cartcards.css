@@ -1,0 +1,34 @@
+#container {
+  margin-top: 50px;
+  background-color: white;
+}
+.card {
+  border-radius: 10px;
+}
+.cardt-title {
+  color: #0d152e;
+  margin-top: 20px;
+}
+.cardt-text {
+  margin-top: 20px;
+}
+#imgstyle {
+  list-style: square inside url("../../assets/images/tick.png");
+  line-height: 30px;
+}
+#button-card {
+  margin-top: 10px;
+  font-size: 15px;
+  background-color: #d6b592;
+  border-style: none;
+  border-radius: 5px solid;
+  height: 40px;
+  width: 100% !important;
+  color: white;
+}
+#button-card:hover {
+  border: #885825 1px solid;
+  border-radius: 5px solid;
+  color: #d6b592;
+  background-color: white;
+}

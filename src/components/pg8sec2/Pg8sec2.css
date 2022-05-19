@@ -1,0 +1,13 @@
+.card_bottom {
+  display: flex;
+  justify-content: space-between;
+}
+.card-title {
+  font-size: 16px;
+}
+.card-text {
+  font-size: 12px;
+}
+.card-muted {
+  font-size: 10px;
+}

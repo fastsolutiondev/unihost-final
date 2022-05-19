@@ -1,0 +1,75 @@
+.pg48 {
+  padding-top: 78px;
+  padding-bottom: 144px;
+}
+.pg48 main {
+  background-color: #f9f9f9;
+  border: 1px solid #d9d9d9;
+  border-radius: 1rem;
+  -webkit-border-radius: 1rem;
+  -moz-border-radius: 1rem;
+  -ms-border-radius: 1rem;
+  -o-border-radius: 1rem;
+  /* layout */
+  display: grid;
+  grid-template-columns: 2fr auto 4fr;
+}
+.middle-line {
+  width: 1px;
+  height: 90%;
+  background-color: #d9d9d9;
+}
+.pg48-content {
+  padding: 50px;
+}
+.pg48-content > h2 {
+  font-size: 30px;
+  line-height: 2rem;
+  font-weight: 600;
+  margin-bottom: 40px;
+}
+.pg48-buttons {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 30px;
+}
+.pg48-buttons a {
+  padding: 10px 28px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.pg48-content > h3 {
+  font-size: 22px;
+  line-height: 2rem;
+  margin-bottom: 40px;
+  margin-bottom: 66px;
+}
+.pg48-mid {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 50px;
+  margin-bottom: 54px;
+}
+.pg48-mid .cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+.pg48-mid .cards div {
+  width: 96px;
+  height: 96px;
+  background-color: #fff;
+  border: 1px solid #c48b60;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}

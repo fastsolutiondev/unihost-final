@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1396" height="1067.243" viewBox="0 0 1396 1067.243">
+  <defs>
+    <style>
+      .cls-1, .cls-7 {
+        fill: #262e36;
+        font-size: 20px;
+      }
+
+      .cls-1, .cls-8, .cls-9 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #c48b60;
+      }
+
+      .cls-2 {
+        font-size: 26px;
+      }
+
+      .cls-2, .cls-7 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-11, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #e3e3e3;
+      }
+
+      .cls-3, .cls-6 {
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        fill: #576068;
+      }
+
+      .cls-6, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        stroke: #dfdfdf;
+      }
+
+      .cls-8 {
+        fill: #a2a2a2;
+        font-size: 16px;
+      }
+
+      .cls-9 {
+        font-size: 13px;
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_5137" data-name="Group 5137" transform="translate(-262 -216.757)">
+    <text id="Caixa_de_entrada" data-name="Caixa de entrada" class="cls-1" transform="translate(329.982 251)"><tspan x="0" y="0">Caixa de entrada</tspan></text>
+    <g id="Group_2871" data-name="Group 2871" transform="translate(0 -83.021)">
+      <text id="We_help_you_stay_connected" data-name="We help you stay connected" class="cls-2" transform="translate(825 499)"><tspan x="-75.816" y="28">Notificações</tspan></text>
+    </g>
+    <line id="Line_97" data-name="Line 97" class="cls-3" x2="620" transform="translate(1038 363.5)"/>
+    <line id="Line_98" data-name="Line 98" class="cls-3" x2="620" transform="translate(262 363.5)"/>
+    <g id="Group_2887" data-name="Group 2887" transform="translate(921 328)">
+      <path id="Path_468" data-name="Path 468" class="cls-4" d="M12.5,34.122a1.985,1.985,0,0,1-.477-.059A1.958,1.958,0,0,1,10.6,31.686a36.032,36.032,0,0,1,13.66-20.317,1.959,1.959,0,1,1,2.313,3.162,32.1,32.1,0,0,0-12.17,18.1A1.969,1.969,0,0,1,12.5,34.122Z" transform="translate(-10.54 -10.989)"/>
+      <path id="Path_469" data-name="Path 469" class="cls-4" d="M106.565,34.126a1.964,1.964,0,0,1-1.9-1.483,32.1,32.1,0,0,0-12.17-18.1,1.959,1.959,0,1,1,2.313-3.162A36.01,36.01,0,0,1,108.466,31.7a1.963,1.963,0,0,1-1.424,2.378A2.318,2.318,0,0,1,106.565,34.126Z" transform="translate(-38.677 -10.993)"/>
+      <path id="Path_471" data-name="Path 471" class="cls-5" d="M69.357,77.181H27.3a8.5,8.5,0,0,1-8.244-10.55l7.075-28.3a22.877,22.877,0,0,1,44.39,0l7.075,28.3a8.5,8.5,0,0,1-8.238,10.55ZM48.328,24.92a18.926,18.926,0,0,0-18.39,14.359l-7.075,28.3A4.569,4.569,0,0,0,27.3,73.262H69.357a4.569,4.569,0,0,0,4.436-5.683l-7.075-28.3A18.926,18.926,0,0,0,48.328,24.92Z" transform="translate(-13.404 -14.46)"/>
+      <path id="Path_472" data-name="Path 472" class="cls-4" d="M65.7,113a1.875,1.875,0,0,0-1.137.366,7.795,7.795,0,0,1-9.446,0A1.861,1.861,0,0,0,53.981,113h0a1.959,1.959,0,0,0-1.228,3.488,11.7,11.7,0,0,0,14.176,0A1.959,1.959,0,0,0,65.7,113Z" transform="translate(-24.917 -46.359)"/>
+    </g>
+    <g id="Group_2888" data-name="Group 2888" transform="translate(262 216.757)">
+      <path id="Path_468-2" data-name="Path 468" class="cls-4" d="M12.012,28.37a1.492,1.492,0,0,1-.358-.044,1.471,1.471,0,0,1-1.07-1.787A27.072,27.072,0,0,1,20.847,11.274a1.472,1.472,0,1,1,1.738,2.376,24.122,24.122,0,0,0-9.144,13.6A1.479,1.479,0,0,1,12.012,28.37Z" transform="translate(-10.54 -10.989)"/>
+      <path id="Path_469-2" data-name="Path 469" class="cls-4" d="M102.866,28.375a1.476,1.476,0,0,1-1.428-1.114,24.114,24.114,0,0,0-9.144-13.6,1.472,1.472,0,1,1,1.737-2.376,27.055,27.055,0,0,1,10.263,15.265,1.475,1.475,0,0,1-1.07,1.787A1.742,1.742,0,0,1,102.866,28.375Z" transform="translate(-51.859 -10.995)"/>
+      <path id="Path_471-2" data-name="Path 471" class="cls-5" d="M56.785,63.211h-31.6a6.383,6.383,0,0,1-6.194-7.927l5.316-21.262a17.188,17.188,0,0,1,33.351,0l5.316,21.262a6.383,6.383,0,0,1-6.189,7.927Zm-15.8-39.266A14.22,14.22,0,0,0,27.169,34.733L21.853,56a3.433,3.433,0,0,0,3.333,4.27h31.6A3.433,3.433,0,0,0,60.118,56L54.8,34.733A14.22,14.22,0,0,0,40.985,23.945Z" transform="translate(-14.746 -16.087)"/>
+      <path id="Path_472-2" data-name="Path 472" class="cls-4" d="M62.3,113a1.408,1.408,0,0,0-.854.275,5.856,5.856,0,0,1-7.1,0A1.4,1.4,0,0,0,53.49,113h0a1.472,1.472,0,0,0-.923,2.621,8.792,8.792,0,0,0,10.651,0A1.472,1.472,0,0,0,62.3,113Z" transform="translate(-31.653 -62.931)"/>
+    </g>
+    <g id="Group_2890" data-name="Group 2890" transform="translate(522.362 504)">
+      <g id="Rectangle_3378" data-name="Rectangle 3378" class="cls-6" transform="translate(-0.362)">
+        <rect class="cls-10" width="876" height="80" rx="10"/>
+        <rect class="cls-11" x="1" y="1" width="874" height="78" rx="9"/>
+      </g>
+      <g id="Group_2889" data-name="Group 2889" transform="translate(16 16)">
+        <text id="Filipa_boas_notícias_" data-name="Filipa, boas notícias!" class="cls-7" transform="translate(-0.362 19)"><tspan x="0" y="0">Filipa, boas notícias!</tspan></text>
+        <text id="A_senhoria_Maria_aceitou_o_teu_pedido_de_reserva_" data-name="A senhoria Maria aceitou o teu pedido de reserva!" class="cls-8" transform="translate(-0.362 45)"><tspan x="0" y="0">A senhoria Maria aceitou o teu pedido de reserva!</tspan></text>
+      </g>
+      <g id="Group_2067" data-name="Group 2067" transform="translate(685.275 25)">
+        <rect id="Rectangle_259" data-name="Rectangle 259" class="cls-4" width="174" height="32" rx="16" transform="translate(0.362 0)"/>
+        <text id="ir_para_a_caixa_de_entrada" data-name="ir para a caixa de entrada" class="cls-9" transform="translate(157.362 21)"><tspan x="-144.244" y="0">ir para a caixa de entrada</tspan></text>
+      </g>
+    </g>
+    <g id="Group_2897" data-name="Group 2897" transform="translate(522.362 904)">
+      <g id="Rectangle_3378-2" data-name="Rectangle 3378" class="cls-6" transform="translate(-0.362)">
+        <rect class="cls-10" width="876" height="80" rx="10"/>
+        <rect class="cls-11" x="1" y="1" width="874" height="78" rx="9"/>
+      </g>
+      <g id="Group_2889-2" data-name="Group 2889" transform="translate(16 16)">
+        <text id="Filipa_boas_notícias_2" data-name="Filipa, boas notícias!" class="cls-7" transform="translate(-0.362 19)"><tspan x="0" y="0">Filipa, boas notícias!</tspan></text>
+        <text id="A_senhoria_Maria_aceitou_o_teu_pedido_de_reserva_2" data-name="A senhoria Maria aceitou o teu pedido de reserva!" class="cls-8" transform="translate(-0.362 45)"><tspan x="0" y="0">A senhoria Maria aceitou o teu pedido de reserva!</tspan></text>
+      </g>
+      <g id="Group_2067-2" data-name="Group 2067" transform="translate(685.275 25)">
+        <rect id="Rectangle_259-2" data-name="Rectangle 259" class="cls-4" width="174" height="32" rx="16" transform="translate(0.362 0)"/>
+        <text id="ir_para_a_caixa_de_entrada-2" data-name="ir para a caixa de entrada" class="cls-9" transform="translate(157.362 21)"><tspan x="-144.244" y="0">ir para a caixa de entrada</tspan></text>
+      </g>
+    </g>
+    <g id="Group_2891" data-name="Group 2891" transform="translate(522.362 604)">
+      <g id="Rectangle_3378-3" data-name="Rectangle 3378" class="cls-6" transform="translate(-0.362)">
+        <rect class="cls-10" width="876" height="80" rx="10"/>
+        <rect class="cls-11" x="1" y="1" width="874" height="78" rx="9"/>
+      </g>
+      <g id="Group_2889-3" data-name="Group 2889" transform="translate(16 16)">
+        <text id="Filipa_boas_notícias_3" data-name="Filipa, boas notícias!" class="cls-7" transform="translate(-0.362 19)"><tspan x="0" y="0">Filipa, boas notícias!</tspan></text>
+        <text id="Completa_o_teu_perfil_com_os_métodos_de_pagamento_" data-name="Completa o teu perfil com os métodos de pagamento!" class="cls-8" transform="translate(-0.362 45)"><tspan x="0" y="0">Completa o teu perfil com os métodos de pagamento!</tspan></text>
+      </g>
+      <g id="Group_2067-3" data-name="Group 2067" transform="translate(747.275 25)">
+        <rect id="Rectangle_259-3" data-name="Rectangle 259" class="cls-4" width="112" height="32" rx="16" transform="translate(0.362 0)"/>
+        <text id="ir_para_o_perfil" data-name="ir para o perfil" class="cls-9" transform="translate(95.362 21)"><tspan x="-80.685" y="0">ir para o perfil</tspan></text>
+      </g>
+    </g>
+    <g id="Group_2896" data-name="Group 2896" transform="translate(522.362 1004)">
+      <g id="Rectangle_3378-4" data-name="Rectangle 3378" class="cls-6" transform="translate(-0.362)">
+        <rect class="cls-10" width="876" height="80" rx="10"/>
+        <rect class="cls-11" x="1" y="1" width="874" height="78" rx="9"/>
+      </g>
+      <g id="Group_2889-4" data-name="Group 2889" transform="translate(16 16)">
+        <text id="Filipa_boas_notícias_4" data-name="Filipa, boas notícias!" class="cls-7" transform="translate(-0.362 19)"><tspan x="0" y="0">Filipa, boas notícias!</tspan></text>
+        <text id="Completa_o_teu_perfil_com_os_métodos_de_pagamento_2" data-name="Completa o teu perfil com os métodos de pagamento!" class="cls-8" transform="translate(-0.362 45)"><tspan x="0" y="0">Completa o teu perfil com os métodos de pagamento!</tspan></text>
+      </g>
+      <g id="Group_2067-4" data-name="Group 2067" transform="translate(747.275 25)">
+        <rect id="Rectangle_259-4" data-name="Rectangle 259" class="cls-4" width="112" height="32" rx="16" transform="translate(0.362 0)"/>
+        <text id="ir_para_o_perfil-2" data-name="ir para o perfil" class="cls-9" transform="translate(95.362 21)"><tspan x="-80.685" y="0">ir para o perfil</tspan></text>
+      </g>
+    </g>
+    <g id="Group_2892" data-name="Group 2892" transform="translate(522.362 704)">
+      <g id="Rectangle_3378-5" data-name="Rectangle 3378" class="cls-6" transform="translate(-0.362)">
+        <rect class="cls-10" width="876" height="80" rx="10"/>
+        <rect class="cls-11" x="1" y="1" width="874" height="78" rx="9"/>
+      </g>
+      <g id="Group_2889-5" data-name="Group 2889" transform="translate(16 16)">
+        <text id="Filipa_bom_mês_de_outubro_" data-name="Filipa, bom mês de outubro!" class="cls-7" transform="translate(-0.362 19)"><tspan x="0" y="0">Filipa, bom mês de outubro!</tspan></text>
+        <text id="Hoje_é_dia_1_relembramos_que_deves_fazer_o_pagamento_da_renda_até_dia_8." data-name="Hoje é dia 1 , relembramos que deves fazer o pagamento da renda até dia 8." class="cls-8" transform="translate(-0.362 45)"><tspan x="0" y="0">Hoje é dia 1 , relembramos que deves fazer o pagamento da renda até dia 8.</tspan></text>
+      </g>
+      <g id="Group_2067-5" data-name="Group 2067" transform="translate(757.275 25)">
+        <rect id="Rectangle_259-5" data-name="Rectangle 259" class="cls-4" width="102" height="32" rx="16" transform="translate(0.362 0)"/>
+        <text id="pagar_renda" data-name="pagar renda" class="cls-9" transform="translate(85.362 21)"><tspan x="-69.551" y="0">pagar renda</tspan></text>
+      </g>
+    </g>
+    <g id="Group_2895" data-name="Group 2895" transform="translate(522.362 1104)">
+      <g id="Rectangle_3378-6" data-name="Rectangle 3378" class="cls-6" transform="translate(-0.362)">
+        <rect class="cls-10" width="876" height="80" rx="10"/>
+        <rect class="cls-11" x="1" y="1" width="874" height="78" rx="9"/>
+      </g>
+      <g id="Group_2889-6" data-name="Group 2889" transform="translate(16 16)">
+        <text id="Filipa_bom_mês_de_outubro_2" data-name="Filipa, bom mês de outubro!" class="cls-7" transform="translate(-0.362 19)"><tspan x="0" y="0">Filipa, bom mês de outubro!</tspan></text>
+        <text id="Hoje_é_dia_1_relembramos_que_deves_fazer_o_pagamento_da_renda_até_dia_8.-2" data-name="Hoje é dia 1 , relembramos que deves fazer o pagamento da renda até dia 8." class="cls-8" transform="translate(-0.362 45)"><tspan x="0" y="0">Hoje é dia 1 , relembramos que deves fazer o pagamento da renda até dia 8.</tspan></text>
+      </g>
+      <g id="Group_2067-6" data-name="Group 2067" transform="translate(757.275 25)">
+        <rect id="Rectangle_259-6" data-name="Rectangle 259" class="cls-4" width="102" height="32" rx="16" transform="translate(0.362 0)"/>
+        <text id="pagar_renda-2" data-name="pagar renda" class="cls-9" transform="translate(85.362 21)"><tspan x="-69.551" y="0">pagar renda</tspan></text>
+      </g>
+    </g>
+    <g id="Group_2893" data-name="Group 2893" transform="translate(522.362 804)">
+      <g id="Rectangle_3378-7" data-name="Rectangle 3378" class="cls-6" transform="translate(-0.362)">
+        <rect class="cls-10" width="876" height="80" rx="10"/>
+        <rect class="cls-11" x="1" y="1" width="874" height="78" rx="9"/>
+      </g>
+      <g id="Group_2889-7" data-name="Group 2889" transform="translate(16 16)">
+        <text id="Filipa_atualização_nas_despesas_" data-name="Filipa, atualização nas despesas!" class="cls-7" transform="translate(-0.362 19)"><tspan x="0" y="0">Filipa, atualização nas despesas!</tspan></text>
+        <text id="O_teu_senhorio_já_carregou_as_despesas_de_setembro._Dá_um_olhinho_" data-name="O teu senhorio já carregou as despesas de setembro. Dá um olhinho!" class="cls-8" transform="translate(-0.362 45)"><tspan x="0" y="0">O teu senhorio já carregou as despesas de setembro. Dá um olhinho!</tspan></text>
+      </g>
+      <g id="Group_2067-7" data-name="Group 2067" transform="translate(733.275 25)">
+        <rect id="Rectangle_259-7" data-name="Rectangle 259" class="cls-4" width="126" height="32" rx="16" transform="translate(0.362 0)"/>
+        <text id="ir_para_despesas" data-name="ir para despesas" class="cls-9" transform="translate(109.362 21)"><tspan x="-92.238" y="0">ir para despesas</tspan></text>
+      </g>
+    </g>
+    <g id="Group_2894" data-name="Group 2894" transform="translate(522.362 1204)">
+      <g id="Rectangle_3378-8" data-name="Rectangle 3378" class="cls-6" transform="translate(-0.362)">
+        <rect class="cls-10" width="876" height="80" rx="10"/>
+        <rect class="cls-11" x="1" y="1" width="874" height="78" rx="9"/>
+      </g>
+      <g id="Group_2889-8" data-name="Group 2889" transform="translate(16 16)">
+        <text id="Filipa_atualização_nas_despesas_2" data-name="Filipa, atualização nas despesas!" class="cls-7" transform="translate(-0.362 19)"><tspan x="0" y="0">Filipa, atualização nas despesas!</tspan></text>
+        <text id="O_teu_senhorio_já_carregou_as_despesas_de_setembro._Dá_um_olhinho_2" data-name="O teu senhorio já carregou as despesas de setembro. Dá um olhinho!" class="cls-8" transform="translate(-0.362 45)"><tspan x="0" y="0">O teu senhorio já carregou as despesas de setembro. Dá um olhinho!</tspan></text>
+      </g>
+      <g id="Group_2067-8" data-name="Group 2067" transform="translate(733.275 25)">
+        <rect id="Rectangle_259-8" data-name="Rectangle 259" class="cls-4" width="126" height="32" rx="16" transform="translate(0.362 0)"/>
+        <text id="ir_para_despesas-2" data-name="ir para despesas" class="cls-9" transform="translate(109.362 21)"><tspan x="-92.238" y="0">ir para despesas</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

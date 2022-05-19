@@ -1,0 +1,6 @@
+#card-footer {
+  display: flex;
+  justify-content: between;
+  font-size: 14px;
+  color: grey;
+}

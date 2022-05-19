@@ -1,0 +1,25 @@
+@media (max-width: 1024px) {
+  .container {
+    margin-top: 10rem;
+  }
+}
+@media (max-width: 860px) {
+  .container {
+    margin-top: 10rem;
+  }
+}
+#button-slect {
+  width: 6.25rem;
+  border: none;
+  height: 3.5rem;
+  border-radius: 0.75rem;
+  -webkit-border-radius: 0.75rem;
+  -moz-border-radius: 0.75rem;
+  -ms-border-radius: 0.75rem;
+  -o-border-radius: 0.75rem;
+  cursor: pointer;
+  /*layout*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,13 @@
+hr.hr--logo {
+  border-top: solid #000 1px;
+}
+hr.hr--logo:after {
+  content: url("../../assets/images/msg.png");
+  /* Controls the position of the logo */
+  left: 50%;
+  position: absolute;
+  transform: translateY(-50%) translateX(-50%);
+  /* Controls the whitespace around the symbol */
+  padding: 20px;
+  background: #fff;
+}

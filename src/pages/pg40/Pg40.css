@@ -1,0 +1,59 @@
+.pg40 {
+  padding-top: 78px;
+  padding-bottom: 144px;
+}
+.pg40 main {
+  background-color: #f9f9f9;
+  border: 1px solid #d9d9d9;
+  border-radius: 1rem;
+  -webkit-border-radius: 1rem;
+  -moz-border-radius: 1rem;
+  -ms-border-radius: 1rem;
+  -o-border-radius: 1rem;
+  /* layout */
+  display: grid;
+  grid-template-columns: 2fr auto 4fr;
+}
+.middle-line {
+  width: 1px;
+  height: 90%;
+  background-color: #d9d9d9;
+}
+.pg40-content {
+  padding: 50px;
+}
+.pg40-content > h2 {
+  font-size: 30px;
+  line-height: 2rem;
+  font-weight: 600;
+  margin-bottom: 38px;
+}
+.pg40-content > h3 {
+  line-height: 2rem;
+  font-weight: 600;
+  margin-bottom: 28px;
+}
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 26px;
+  margin-bottom: 2rem;
+}
+.upper-card-container > div {
+  place-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+}
+.red-button a {
+  color: #fff;
+  background-color: #ff4d4d;
+  padding: 14px 24px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  margin-bottom: 70px;
+}

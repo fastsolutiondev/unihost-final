@@ -1,0 +1,17 @@
+#flush-headingOne {
+  border: 2px solid #dfdfdf !important;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+#flush-headingTwo {
+  border: 2px solid #dfdfdf !important;
+}
+#flush-headingThree {
+  border: 2px solid #dfdfdf !important;
+}
+
+#flush-headingFour {
+  border: 2px solid #dfdfdf !important;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}

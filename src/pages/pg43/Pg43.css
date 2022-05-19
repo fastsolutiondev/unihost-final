@@ -1,0 +1,18 @@
+.reviewss {
+  display: flex;
+  gap: 10px;
+}
+.txt-row {
+  display: flex;
+  gap: 10px;
+}
+#review-txt {
+  font-weight: bold;
+  color: #262e36;
+  font-size: 20px;
+}
+#reviews-box {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 2px solid #dfdfdf;
+  border-radius: 10px;
+}

@@ -1,0 +1,25 @@
+#parahf {
+  color: #262e36 !important;
+  font-size: 20px;
+}
+#parah-div {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+#flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  gap: 10px;
+}
+#icon-color {
+  background-color: white;
+
+  color: #c48b60;
+}
+#icons {
+  border: 1px solid #c48b60;
+  border-radius: 100px;
+  margin-left: 10px;
+  padding: 10px;
+}

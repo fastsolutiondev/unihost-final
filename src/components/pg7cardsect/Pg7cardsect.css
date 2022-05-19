@@ -1,0 +1,30 @@
+#background {
+  background: #f9f9f9;
+}
+#linkt {
+  color: #c48b60;
+  font-size: 20px;
+}
+#heading1 {
+  color: #0d152e;
+  font-weight: bold;
+}
+.cardn-img-top {
+  margin-top: 20px !important;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  width: 20%;
+  height: auto;
+  background-color: #7d8a972c;
+  padding: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.cardn-text {
+  text-align: left !important;
+  color: #7d8a97;
+}
+.cardn-title {
+  text-align: left !important;
+  color: #0d152e;
+}

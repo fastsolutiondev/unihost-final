@@ -1,0 +1,15 @@
+#label-backed {
+  background-color: #ffffff;
+  border: 1px solid #dfdfdf;
+  height: 200px;
+  width: 100%;
+}
+#content-center {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  margin-bottom: auto;
+}
+#pic-flex {
+  gap: 10px;
+}

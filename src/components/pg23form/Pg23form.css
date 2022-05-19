@@ -1,0 +1,19 @@
+#prog-form-back {
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid #dbdbdb;
+}
+#btn-back-style {
+  background-color: #c48b60;
+  border-radius: 10px;
+  border: 1px solid #dbdbdb;
+  padding: 10px;
+  color: white;
+}
+#btn-back-style:hover {
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid #c48b60;
+  padding: 10px;
+  color: #c48b60;
+}

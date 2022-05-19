@@ -1,0 +1,53 @@
+.pg10 {
+  max-width: 100%;
+}
+.pg10-img {
+  width: 100%;
+  padding-top: 32.44%;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(../../assets/images/img3.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 4.375rem; /*70px*/
+}
+.pg10-inner > h1 {
+  margin-bottom: 4.375rem; /*70px*/
+}
+.pg10-inner > h2 {
+  margin-bottom: 3rem; /*48px*/
+}
+.pg10-inner > p {
+  line-height: 36px;
+  margin-bottom: 8.125rem; /*130px*/
+}
+.pg10-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  margin-bottom: 6.875rem; /*110px*/
+}
+.pg10-grid > img {
+  border-radius: 1rem;
+  -webkit-border-radius: 1rem;
+  -moz-border-radius: 1rem;
+  -ms-border-radius: 1rem;
+  -o-border-radius: 1rem;
+}
+.pg10-grid:last-of-type {
+  margin-bottom: 19rem; /*304px*/
+}
+.pg10-grid .desc {
+  display: grid;
+  place-content: center;
+}
+.pg10-grid:nth-of-type(odd) .desc {
+  padding-right: 0;
+  padding-left: 3.75rem;
+}
+.pg10-grid:nth-of-type(2n) .desc {
+  padding-left: 0;
+  padding-right: 3.75rem;
+}
+.pg10-grid .desc h3 {
+  margin-bottom: 2rem;
+}

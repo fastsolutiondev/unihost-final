@@ -1,0 +1,29 @@
+.div1 {
+  width: 100%;
+}
+#back_img {
+  height: 548px;
+  background-color: #000000;
+}
+.overlay {
+  background: rgba(0, 0, 0, 0.7);
+  overflow: hidden;
+  height: 100%;
+  opacity: 0.9;
+}
+#heading {
+  color: white;
+  font-weight: bolder;
+  font-size: 3rem;
+}
+#parah {
+  color: white;
+  width: 500px;
+}
+
+#center {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

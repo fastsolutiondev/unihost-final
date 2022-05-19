@@ -1,0 +1,45 @@
+#backofform {
+  background-color: #d9d9d9;
+  border: 1px solid #d9d9d9;
+}
+#headstyle {
+  color: #222f41;
+  margin-top: 50px !important;
+}
+#txtstyle {
+  color: #707070;
+  margin-top: 20px !important;
+}
+#btnstyle {
+  gap: 30px;
+}
+#btn1style {
+  background-color: #c48b60;
+  border-radius: 10px;
+  color: #ffffff;
+  padding: 10px;
+  width: auto;
+}
+#btn2style {
+  background-color: #ececec;
+  color: #979797;
+  border-radius: 10px;
+  padding: 10px;
+  width: auto;
+}
+#label-back {
+  background-color: #ffffff;
+  border: 1px solid #dfdfdf;
+  height: 200px;
+  width: 300px;
+}
+#plus-center {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  margin-bottom: auto;
+}
+#btm-link {
+  color: #c48b60;
+  font-size: 16px;
+}

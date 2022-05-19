@@ -1,0 +1,65 @@
+#container-img {
+  margin-top: 80px !important;
+  margin-left: 100px !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 450px;
+  border-radius: 50px;
+}
+/* (A) WRAPPER */
+.hoverwrap {
+  position: relative; /* required for (c2) */
+  max-width: 500px; /* optional */
+}
+
+/* (B) RESPONSIVE IMAGE */
+.hoverwrap img {
+  width: 100%;
+}
+
+/* (C) CAPTION */
+.hovercap {
+  /* (C1) DIMENSIONS */
+  box-sizing: border-box;
+  width: 50%;
+  padding: 10px;
+  border-radius: 30px;
+
+  /* (C2) PLACE AT BOTTOM */
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-left: 150px;
+  margin-top: 100px;
+
+  /* (C3) COLORS */
+  background-color: white;
+  color: rgb(0, 0, 0);
+}
+
+/* (D) SHOW/HIDE */
+.hovercap {
+  visibility: none;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+.hoverwrap:hover .hovercap {
+  visibility: visible;
+  opacity: 1;
+}
+#popup-heading {
+  padding: 20px;
+  font-weight: 500;
+  font-size: 22px;
+}
+#btn-popover {
+  background-color: #c48b60;
+  color: #fff;
+}
+#link-popover {
+  color: #c48b60;
+}
+#popover-text {
+  font-size: 14px;
+}

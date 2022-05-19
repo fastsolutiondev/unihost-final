@@ -1,0 +1,50 @@
+#form-back {
+  border: 1px solid #dbdbdb;
+  border-radius: 10px;
+}
+#form-link {
+  color: #c48b60;
+  margin: auto;
+  width: 50%;
+
+  padding: 50px;
+}
+
+.vr {
+  height: 50px;
+}
+#label-form {
+  font-size: 14px;
+}
+.field-icon {
+  float: right;
+  margin-left: -25px;
+  margin-right: 20px;
+  margin-top: -25px;
+  position: relative;
+  z-index: 2;
+}
+#link-color {
+  color: #c48b60;
+  font-size: 12px;
+}
+#form-btn {
+  background-color: #c48b60;
+  color: #fff;
+  font-size: 12px;
+}
+#btn-back-fb {
+  background-color: #b8d9ff;
+  width: 100%;
+  padding: 10px;
+}
+#btn-back-google {
+  background-color: #ffb9b3;
+  width: 100%;
+  padding: 10px;
+}
+
+
+.googleLoginClass{
+  width: 100%;
+}
